@@ -19,15 +19,15 @@ Innovating and optimizing software delivery pipelines.
 🌐 Contributed to open-source projects to enhance feature sets and community adoption.
 📂 Featured Projects (Repositories to Pin)
 
-1. [rtpuja/prometheus-grafana-demo-updated]: Prometheus-Grafana Demo A simple project demonstrating how to set up Prometheus and Grafana for monitoring applications and system metrics.
-2. [/rtpuja/springboot-k8s-helm]: Spring Boot + Kubernetes + Helm Example
+1. https://github.com/rtpuja/prometheus-grafana-demo-updated: Prometheus-Grafana Demo A simple project demonstrating how to set up Prometheus and Grafana for monitoring applications and system metrics.
+2. https://github.com/rtpuja/springboot-k8s-helm: Spring Boot + Kubernetes + Helm Example
 3. https://github.com/rtpuja/kafka-retry-springboot: This is a Spring Boot application that demonstrates the use of Apache Kafka for producing and consuming messages.
 4. https://github.com/rtpuja/tracing-multi-service: This project demonstrates distributed tracing using Micrometer Tracing with Brave in two Spring Boot microservices (Service A and Service B) and visualizing them using Zipkin.
 5. https://github.com/rtpuja/custBookingApplication: This projects includes Zuul, eureka and restapi service which combined into one microservices. The main task is to save booking data if booking space is available in database.
 (Once you share your repositories or let me analyze them, I can provide specific project names and descriptions here.)
 
 📊 GitHub Stats
-[Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rtpuja&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rtpuja&show_icons=true&theme=radical)
 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rtpuja&layout=compact&theme=radical)
 
