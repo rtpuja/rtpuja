@@ -31,6 +31,9 @@ Innovating and optimizing software delivery pipelines.
 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rtpuja&layout=compact&theme=radical)
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+
 📫 Let's Connect
 LinkedIn: www.linkedin.com/in/pooja-kumawat-7443368a
 Email: pooja.kumawat75@gmail.com
